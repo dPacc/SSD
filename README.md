@@ -1,4 +1,4 @@
-# Deep Learning based Object Detection with OpenCV
+# Deep Learning based Object Detection with SSD using OpenCV
 
 We use MobileNets to predict the classes. We call these networks “MobileNets” because they are designed for resource constrained devices such as your smartphone. MobileNets differ from traditional CNNs through the usage of depthwise separable convolution.
 
